@@ -1,0 +1,84 @@
+body{
+    background: #f5d9d5;
+    font-family: 'Kumbh Sans', sans-serif;
+}
+
+#mainNav{
+    font-size:1.5rem ;
+    font-weight: 100;
+}
+
+#mainNav .nav-link{
+    color: white;
+    margin: 4.2px;
+}
+
+#mainNav .navbar-brand{
+    color:#cd0a0a;
+    font-size:2rem ;
+    font-weight: 100;
+    
+}
+
+#navbarLink :hover {
+    color:#cd0a0a;
+}
+
+svg, #headgrp span{
+    color:#cd0a0a;
+}
+
+.blurb h2{
+    color:#be3e3e;
+    font-weight: 100;
+    font-size: 2.5rem ;
+}
+
+.blurb p , .blurb a{
+    color: #e41f64;
+    font-weight: 100;
+    font-size: 1.125rem ;   
+    line-height: 2rem; 
+}
+ 
+#plink a{
+    color: #c01b55;
+    font-weight: 100;
+    font-size: 1.125rem ;   
+    line-height: 2rem;
+}
+
+#plink a:hover{
+    color: #791b3c;
+    font-weight: 100;
+    font-size: 1.125rem ;   
+    line-height: 2rem;
+}
+
+.content{
+    margin-top: 100px;
+}
+
+.navbar.scrolled{
+    background: rgb(222, 192, 222);
+    
+    transition: 700ms;
+}
+
+.lead{
+    font-family: 'Grandstander', cursive;
+}
+
+.jumbotron{
+    background: black;
+}
+
+.jumbotron hr{
+    width: 20%;
+    border-bottom: 2px solid white;
+    
+}
+
+.footer{
+    background: rgb(222, 192, 222);
+}
