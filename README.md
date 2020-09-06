@@ -3,3 +3,6 @@ A bootstrap informational website about different types of exciting,tasty and cr
 
 It is a simple bootstrap  project that shows different exciting candies.
 Links of the candies are also provided in the page.
+
+
+Main page : index.html 
